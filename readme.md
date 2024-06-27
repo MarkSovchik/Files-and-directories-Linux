@@ -1,6 +1,7 @@
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![image](https://github.com/MarkSovchik/Files-and-directories-Linux/assets/156686594/90c50969-2bba-4fac-9702-40974414283f)
+![image](https://github.com/MarkSovchik/Files-and-directories-Linux/assets/156686594/27429cb4-2c94-43fe-804b-a4a5c300aed3)
+
+
 1.	ls -d  - Показать информацию о директории. Не выводить ее содержимое<br>
 ls -i  - Выводить индекс файла (номер индексного дескриптора inode).<br>
 ls -t  - Сортировка по времени изменения файлов. Новые располагаются в начале списка<br>
